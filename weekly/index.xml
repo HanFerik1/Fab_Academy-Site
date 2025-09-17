@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Weekly Assignments on Hugo and GitLab Pages</title>
+    <link>https://pages.gitlab.io/hugo/weekly/</link>
+    <description>Recent content in Weekly Assignments on Hugo and GitLab Pages</description>
+    <image>
+      <title>Hugo and GitLab Pages</title>
+      <url>https://pages.gitlab.io/hugo/images/papermod-cover.png</url>
+      <link>https://pages.gitlab.io/hugo/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pages.gitlab.io/hugo/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 01 – Fab Academy Website Setup</title>
+      <link>https://pages.gitlab.io/hugo/weekly/week01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pages.gitlab.io/hugo/weekly/week01/</guid>
+      <description>&lt;h1 id=&#34;week-01-fab-academy-website-setup&#34;&gt;Week 01: Fab Academy Website Setup&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; All the steps documented here were performed on &lt;strong&gt;Windows 11 Home 64 Bit&lt;/strong&gt;. Some commands, paths, or behavior may differ on macOS, Linux, or other operating systems.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This week documents the process of setting up my personal Fab Academy website. It includes creating SSH keys, connecting to GitLab, cloning a Hugo template, installing Hugo and Go, and running the website locally.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;getting-a-ssh-key&#34;&gt;Getting a SSH Key&lt;/h2&gt;
+&lt;p&gt;To securely connect my computer to GitLab, I created an SSH key pair.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

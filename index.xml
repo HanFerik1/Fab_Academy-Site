@@ -1,73 +1,151 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About Me on Hugo and GitLab Pages</title>
-    <link>https://pages.gitlab.io/hugo/</link>
-    <description>Recent content in About Me on Hugo and GitLab Pages</description>
-    <image>
-      <title>Hugo and GitLab Pages</title>
-      <url>https://pages.gitlab.io/hugo/images/papermod-cover.png</url>
-      <link>https://pages.gitlab.io/hugo/images/papermod-cover.png</link>
-    </image>
+    <title>About Me on Fab Academy Site</title>
+    <link>https://HanFerik1.github.io/Fab_Academy-Site/</link>
+    <description>Recent content in About Me on Fab Academy Site</description>
     <generator>Hugo -- 0.150.0</generator>
-    <language>en</language>
-    <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pages.gitlab.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 16:02:21 +0300</lastBuildDate>
+    <atom:link href="https://HanFerik1.github.io/Fab_Academy-Site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install / Update PaperMod</title>
-      <link>https://pages.gitlab.io/hugo/posts/papermod/papermod-installation/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/posts/papermod/papermod-installation/</guid>
-      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+      <title>Week20</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week20/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:21 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week20/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Features / Mods</title>
-      <link>https://pages.gitlab.io/hugo/posts/papermod/papermod-features/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/posts/papermod/papermod-features/</guid>
-      <description>Learn About All Features in PaperMod</description>
+      <title>Week19</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week19/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:17 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week19/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://pages.gitlab.io/hugo/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <title>Week18</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week18/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:14 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week18/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Code Syntax Guide</title>
-      <link>https://pages.gitlab.io/hugo/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <title>Week17</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week17/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:12 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week17/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>https://pages.gitlab.io/hugo/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
+      <title>Week16</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week16/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:10 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week16/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Math Typesetting</title>
-      <link>https://pages.gitlab.io/hugo/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
+      <title>Week15</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week15/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:07 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week15/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Emoji Support</title>
-      <link>https://pages.gitlab.io/hugo/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <title>Week14</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week14/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:03 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week14/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week13</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week13/</link>
+      <pubDate>Wed, 17 Sep 2025 16:02:00 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week13/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week12</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week12/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:57 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week11</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week11/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:53 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week10</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week10/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:50 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week09</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week09/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:45 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week09/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week08</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week08/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:41 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week08/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week07</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week07/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:38 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week07/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week06</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week06/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:35 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week06/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week05</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week05/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:31 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week05/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week04</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week04/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:27 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week04/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week03</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week03/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:22 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week03/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Week02</title>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week02/</link>
+      <pubDate>Wed, 17 Sep 2025 16:01:19 +0300</pubDate>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week02/</guid>
+      <description></description>
     </item>
     <item>
       <title>Week 01 – Fab Academy Website Setup</title>
-      <link>https://pages.gitlab.io/hugo/weekly/week01/</link>
+      <link>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pages.gitlab.io/hugo/weekly/week01/</guid>
+      <guid>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week01/</guid>
       <description>&lt;h1 id=&#34;week-01-fab-academy-website-setup&#34;&gt;Week 01: Fab Academy Website Setup&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; All the steps documented here were performed on &lt;strong&gt;Windows 11 Home 64 Bit&lt;/strong&gt;. Some commands, paths, or behavior may differ on macOS, Linux, or other operating systems.&lt;/p&gt;&lt;/blockquote&gt;

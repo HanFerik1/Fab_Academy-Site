@@ -1,25 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://pages.gitlab.io/hugo/en/sitemap.xml</loc>
-    
-      <lastmod>2025-09-17T16:02:21+03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://pages.gitlab.io/hugo/fr/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://pages.gitlab.io/hugo/fa/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/</loc>
+    <lastmod>2025-09-17T16:02:21+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week20/</loc>
+    <lastmod>2025-09-17T16:02:21+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/</loc>
+    <lastmod>2025-09-17T16:02:21+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week19/</loc>
+    <lastmod>2025-09-17T16:02:17+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week18/</loc>
+    <lastmod>2025-09-17T16:02:14+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week17/</loc>
+    <lastmod>2025-09-17T16:02:12+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week16/</loc>
+    <lastmod>2025-09-17T16:02:10+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week15/</loc>
+    <lastmod>2025-09-17T16:02:07+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week14/</loc>
+    <lastmod>2025-09-17T16:02:03+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week13/</loc>
+    <lastmod>2025-09-17T16:02:00+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week12/</loc>
+    <lastmod>2025-09-17T16:01:57+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week11/</loc>
+    <lastmod>2025-09-17T16:01:53+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week10/</loc>
+    <lastmod>2025-09-17T16:01:50+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week09/</loc>
+    <lastmod>2025-09-17T16:01:45+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week08/</loc>
+    <lastmod>2025-09-17T16:01:41+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week07/</loc>
+    <lastmod>2025-09-17T16:01:38+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week06/</loc>
+    <lastmod>2025-09-17T16:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week05/</loc>
+    <lastmod>2025-09-17T16:01:31+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week04/</loc>
+    <lastmod>2025-09-17T16:01:27+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week03/</loc>
+    <lastmod>2025-09-17T16:01:22+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week02/</loc>
+    <lastmod>2025-09-17T16:01:19+03:00</lastmod>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/categories/</loc>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/tags/</loc>
+  </url><url>
+    <loc>https://HanFerik1.github.io/Fab_Academy-Site/weekly/week01/</loc>
+  </url>
+</urlset>
